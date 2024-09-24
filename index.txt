@@ -1,0 +1,2 @@
+Q:Who developer Java
+a:James gosling
